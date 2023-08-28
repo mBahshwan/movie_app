@@ -1,16 +1,14 @@
 # movie_app
 
-A new Flutter project.
+displaying movies via API with its rating  
 
-## Getting Started
+## Plugins:
 
-This project is a starting point for a Flutter application.
+- [http](https://pub.dev/packages/http)
+- [google_fonts](https://pub.dev/packages/google_fonts)
+- [carousel_slider](https://pub.dev/packages/carousel_slider)
+- [youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter)
 
-A few resources to get you started if this is your first Flutter project:
+## Record
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<video src="https://github.com/mBahshwan/bikeZoon/assets/101920300/20695448-f040-4ea3-99d6-de4e54d75f52" autoplay muted height="400" width="250">
